@@ -21,7 +21,7 @@ import ContactsInformation from "./pages/contactsInfomation/ContactsInformation.
 import InvoicesBalances from "./pages/invoicesBalances/InvoicesBalances.jsx";
 import ProfileForm from "./pages/profileForm/ProfileForm.jsx";
 import Calendar from "./pages/calendar/Calendar.jsx";
-import FAQPage from "./pages/FAQPage/FAQPage.jsx";
+import FAQPage from "./pages/FAQPage/faq.jsx";
 import BarChart from "./pages/barChart/BarChart.jsx";
 import PieChart from "./pages/pieChart/PieChart.jsx";
 import LineChart from "./pages/ineChart/LineChart.jsx";
